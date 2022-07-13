@@ -1,0 +1,10 @@
+{
+    "discordToken" : "DISCORD_BOT_TOKEN",
+    "discordFeedChannel" : "DISCORD_CHANNEL_ID",
+    "redditClientId" : "REDDIT_CLIENT_ID",
+    "redditClientSecret" : "REDDIT_CLIENT_SECRET",
+    "redditRefreshToken" : "REDDIT_REFRESH_TOKEN",
+    "redditAccessToken": "REDDIT_ACCESS_TOKEN",
+    "redditUserAgentDescription" : "REDDIT_DESCRIPTION",
+    "watchedSubreddit" : "SUBREDDIT_NAME"
+}

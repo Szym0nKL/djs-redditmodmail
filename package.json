@@ -1,0 +1,16 @@
+{
+  "name": "discord-reddit-modmail",
+  "version": "1.0.0",
+  "description": "Reddit modmail to Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Szym0nKL",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "node.js": "^0.0.1-security",
+    "snoowrap": "^1.23.0"
+  }
+}
